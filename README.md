@@ -11,4 +11,4 @@ Is the web page a presentation and does it feature an interactive plot that appe
 
 ### Example Submissions
 
-Here's an extremely minimal passing example, but we hope your submission is much cooler!
+<a href="http://seankross.neocities.org/week3.html">Here's</a> an extremely minimal passing example, but we hope your submission is much cooler!
